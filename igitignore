@@ -1,0 +1,13 @@
+# WordPress configuration
+wp-config.php
+
+# Environment files
+.env
+.env.*
+
+# Database backups
+*.sql
+
+# Temporary files
+*.log
+*.tmp
